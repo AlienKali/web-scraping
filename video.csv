@@ -1,51 +1,51 @@
 id,pregunta
-[1],zimbra ldap_url: and ldap_master_url cannot be the same on an ldap replica
-[1],Create 404 Error Handler without .htaccess
-[1],Custom VStack inside Path in SwiftUI
-[1],Vue js - vsCode - I get an error when I use v-for?
-[1],I don't understand why this result come why path add Environment.CurrentDirectory?
-[1],How can I listen the event emitted from smart contract in web3 js?
-[1],Fragment not filling fragmentContainerView when rotated 90 degrees in the View
-[1],Catching async errors with context referenced to originating sync function
-[1],Determine if video file contains certain video clip
-[1],How to copy all results from a query in Robo3T
-[1],How to ANGLE in Qt 6 OpenGL
-[1],Release of right mouse button does not trigger dragend event in react-leaflet draggable marker
-[1],I have a dataset and I want to tag the words with its respective POS and IOB tag
-[1],otp mobile number verification in gravity forms (Wordpress website)
-[1],Find all matches for DD MMM YYYY in python
-[1],React-Native ScrollView overflow the screen
-[1],How do I use the case_when function with complex conditions in R?
-[1],"Gitpack display an error called ""Build failed with an exception when releasing an Android Library"
-[1],Decrypt SNMPv3 in Python
-[1],How to set div height to specific number of lines of text?
-[1],Dynamic list of buttons in Unity UI Scrollview not showing
-[1],how do i repeat this equation for decreasing t?- python
-[1],Randomly Make A equation a Solve it Python
-[1],Does splitting data between databases on the same instance increase the performance of Redis searches?
-[1],"With Android 11, how to write file to SDCard in HAL Layer?"
-[1],Getting a 404 error on my nodejs webpage (an example webpage being built following a udemy course)
-[1],"My A Tag Leads Me To a ""File Not Found"" Page"
-[1],Is there a way to stack two words in one cell of a HTML table?
-[1],".Net Core 5.0 Bitmap RotateFlip(RotateFlipType.Rotate270FlipNone) , Image File is abnormal"
-[1],C# How to Fetch data from Mysql to Datagrid ComboBox?
-[1],CDH 6.3 oozie bad health
-[1],AnnotationCollectorMode cannot be cast to AnnotationCollectorMode in codenarc task after groovy version upgrade
-[1],Live Display inventory for Paypal button
-[1],Trying to implement ads other than AdMob
-[1],Conditional count with zero with dplyr
-[1],How to fix a nullable expression can't be used as a condition error
-[1],Display an image chosen with a FileChooser JavaFX
-[1],What is going wrong with this code not passing lat/lng to map?
-[1],for loop with array of strings rendering the same thing twice?
-[1],FindOne does not find name already registered in MongoDB
-[1],Java structured concurrency
-[1],how to import file from general path in cypress
-[1],Text disappears if adding styles to markdown text + Can't add background color to markdown text
-[1],Trouble executing SQLPS or PowerShell from T-SQL script using xp_cmdshell
-[1],Recursive function not updating parameter
-[1],How would I install OpenCV for VSCode?
-[1],How to call multiple intents at once when the slot value is shared by multiple intents?
-[1],Is there a way to know if your coroutine has been canceled from within a suspend function
-[1],"Just installed VS code and getting a lot of errors on simple ""Hello World"" Program C++ [closed]"
-[1],"Why I am getting an exception in ""main"" java.lang.ArrayIndexOutOfBoundsException. The error shows that Index -12 out of bounds for length 37 [duplicate]"
+[0],How does one ensure libtesseract's memory is freed prior to another recognition event?
+[1],tsconfig paths not recognised in spec files
+[2],How to disable scroll in mobile menu in vue?
+[3],Sharp library doesn't capture the padding area when creating a file output
+[4],inline SVG but in a separate file?
+[5],Jenkinsfile inline checkout of a repo using ssh deploy keys possible?
+[6],connect to linux vm using bastion through azure pipeline
+[7],"SageMaker Hyperparameter Tuning for LDA, clarifying feature_dim"
+[8],How to force stringbuilder to write string variables enclosed in double quotes?
+[9],How to Clicked ok button of messagebox pops up on click the xyz application from my c# application
+[10],Is there a way to fit a simple neural network to an input data which is a tensor and its ouputs which must be just one number?
+[11],ChannelReader.ReadAsync(CancellationToken) doesn't return or throw when token is signaled and channel is empty
+[12],Conditionally format a cell based on all of the values of a range of cells
+[13],Real-time audio classification using Python
+[14],link to community slack http://slack.cordova.io/ is broken
+[15],Why TransformBlock get different results
+[16],zimbra ldap_url: and ldap_master_url cannot be the same on an ldap replica
+[17],Create 404 Error Handler without .htaccess
+[18],Custom VStack inside Path in SwiftUI
+[19],Vue js - vsCode - I get an error when I use v-for?
+[20],I don't understand why this result come why path add Environment.CurrentDirectory?
+[21],How can I listen the event emitted from smart contract in web3 js?
+[22],Fragment not filling fragmentContainerView when rotated 90 degrees in the View
+[23],Catching async errors with context referenced to originating sync function
+[24],Determine if video file contains certain video clip
+[25],How to copy all results from a query in Robo3T
+[26],How to ANGLE in Qt 6 OpenGL
+[27],Release of right mouse button does not trigger dragend event in react-leaflet draggable marker
+[28],I have a dataset and I want to tag the words with its respective POS and IOB tag
+[29],otp mobile number verification in gravity forms (Wordpress website)
+[30],Find all matches for DD MMM YYYY in python
+[31],React-Native ScrollView overflow the screen
+[32],How do I use the case_when function with complex conditions in R?
+[33],"Gitpack display an error called ""Build failed with an exception when releasing an Android Library"
+[34],Decrypt SNMPv3 in Python
+[35],How to set div height to specific number of lines of text?
+[36],Dynamic list of buttons in Unity UI Scrollview not showing
+[37],how do i repeat this equation for decreasing t?- python
+[38],Randomly Make A equation a Solve it Python
+[39],Does splitting data between databases on the same instance increase the performance of Redis searches?
+[40],"With Android 11, how to write file to SDCard in HAL Layer?"
+[41],Getting a 404 error on my nodejs webpage (an example webpage being built following a udemy course)
+[42],"My A Tag Leads Me To a ""File Not Found"" Page"
+[43],Is there a way to stack two words in one cell of a HTML table?
+[44],".Net Core 5.0 Bitmap RotateFlip(RotateFlipType.Rotate270FlipNone) , Image File is abnormal"
+[45],C# How to Fetch data from Mysql to Datagrid ComboBox?
+[46],CDH 6.3 oozie bad health
+[47],AnnotationCollectorMode cannot be cast to AnnotationCollectorMode in codenarc task after groovy version upgrade
+[48],Live Display inventory for Paypal button
+[49],Trying to implement ads other than AdMob

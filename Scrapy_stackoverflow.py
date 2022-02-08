@@ -17,16 +17,16 @@ class StackOverFlowSpider(Spider):
     }
 
     start_urls = ['https://stackoverflow.com/questions']
-
+    
     def parse(self,response):
         sel = Selector(response)
-
+        i=0
         preguntas = sel.xpath('//div[@id="questions"]//div[@class="question-summary"]')
         for pregunta in preguntas:
             item = ItemLoader(Pregunta(),pregunta)
             item.add_xpath('pregunta','.//h3/a/text()')
             #item.add_xpath('descripcion', './/div[@class="excerpt"]/text()')
-            item.add_value('id',1)
-
+            item.add_value('id',i)
+            i += 1
 
             yield item.load_item()
